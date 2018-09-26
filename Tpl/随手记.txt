@@ -1,0 +1,503 @@
+不知道从什么时候开始，你就不停的重复分手两个字，我记得我们以前说好的，不许分手，更不许说分手，到现在却一直是你提得比较多，可能你会说是我的错，老是惹你生气，可是你又何尝没有惹我生气过，可是我都不会发脾气，因为我都不确定你会来安慰我，也对，安慰人一般都是男生的专利，也更不敢威胁你“我们以后不要再见面，不要再说话了”，像这样的话一直出自你的口中，似乎你总会觉得我会向你低头，主动来找你。也不知道是什么时候，更害怕失去对方的人是我了，昨天张秋璇和你的聊天记录中我似乎看到了这样的一句话：你又不是没人追，他应该珍惜你。首先，我是珍惜你的，其次，我不想你们以为你是有人追的我才珍惜你的，我很讨厌这句话，感觉除了我谁都可以似的，我不在是那个唯一。曾钦，从5101竞选那次你坐在我后面朝我傻兮兮的笑的时候，我就感觉我遇到了对的人，那是我们见得正式第一面，那种心动的感觉，错不了的，我是想和你一直一直走下去的，分手这种话我说不出口，印象最深的那一次是你在在吓我，我真的被吓到了，知道你在骗我后，有那么一丝恼怒，不过瞬间被喜悦填满，你提分手无非就是看我的态度，想让我多关心你，这是我最近理解的一个地方，相反，我都不敢想象我提分手是个什么样子，你可能会失望，然后头也不回的走了，是的，你提分手我也很失望，因为你忘记了当初的誓言，这么轻易的就要放手，我不会同意，因为我还不想放手。今天我没有给你看聊天记录是因为根本没有，昨天为了跟你聊天随便话题就说我弟对我冷嘲热讽什么什么的，实际上没有，然后谎越扯越大，你非要看，然后我就把手机给你了啊，结果就这样了啊。其实我也有很多不高兴的地方啊比如等我把戒指买回来结果你不愿戴了，比如你对你姐对你谈恋爱的事闭口不言的，尽管你解释过，我也理解，就像你说的，我理解不代表我就释然了，我还是很不高兴，这些我对你说过吗，发过脾气吗，不管是能理解的不能理解的（你不愿戴戒指）我都没有再提了，行吧，这就是我的心里话了，你八成也会给张秋璇看吧，看吧，就在这样了。
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="Default.css"/>
+<title>湖北汽车工业学院学生联合会</title>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+$(function(){
+	$(".main-li").hover(function(){
+		$(this).children(".sub-menu").show().prev("a").css({"color":"#fff","text-decoration":"underline"});
+	},function(){
+		$(this).children(".sub-menu").hide().prev("a").css({"color":"#fff","text-decoration":"none"});
+	});
+	$(".sub-menu .main-li2").hover(function(){
+		$(this).children(".li2-a").css({"background-color":"#981C14","color":"#fff","text-decoration":"underline"});
+		$(this).children(".sub-menu-two").show();
+	},function(){
+		$(this).children(".li2-a").css({"background-color":"#7C2418","color":"#fff","text-decoration":"none"});
+		$(this).children(".sub-menu-two").hide();
+	});
+	
+});
+</script>
+
+
+<style>
+.muen{
+	font-size:18px;
+	color:#FFF;
+	font-weight:bold;
+	background:url(img/menu.png);
+	padding-top:9px;
+	width:780px;
+	overflow:hidden;
+	float:left;
+	height:32px;
+	overflow:hidden;
+	}
+.muen ul{
+	padding-left:5px;
+	float:left;
+	width:780px;
+	height:30px;}
+.muen li{
+	
+	text-align:center;
+	float:left;
+	list-style-type:none;
+	width:111px;}
+	
+	
+	
+	
+	
+	.main-menu{
+width:100%;
+}
+.main-menu{
+	float:left; padding:0 0px; height:32px; line-height:32px; position:relative; z-index:1;top:-5px;
+	}
+.main-li{
+float:left; padding:0 0px; height:32px; line-height:32px; position:relative; z-index:1;
+}
+.main-menu .main-li a{
+display:block; font-weight:bold;
+}
+.main-menu .main-li .li-a{
+float:left;
+}
+.main-menu .main-li .li-a{
+width:111px;
+}
+.main-menu .main-li .sub-menu{
+position:absolute; top:32px; display:none; z-index:2; left:-5px; width:110px; text-align:center; background-color:#999999;
+}
+.main-menu .main-li .sub-menu-two{
+position:absolute; top:0px; display:none; z-index:3; left:110px;text-align:center;
+}
+.sub-menu-two a{
+width:80px; background-color:#981C14; float:none;
+}
+.sub-menu .li2-a{
+background-color:#7C2418; float:none;width:110px;
+}
+.sub-menu a:hover{
+background-color:#981C14;
+}
+</style>
+</head>
+<body>
+<div class="bigmain">
+  <div class="litlemain">
+    <div class="head"> <img src="img/logo.png" style="float:left; ">
+      <div class="rightheaddiv">
+        <div class="rightheaddiv1"><font  style="font-size:24px;
+font-family:'宋体'; color:#FFF; font-weight:bold;">湖北汽车工业学院学生联合会</font><font style="font-family:Arial, Helvetica, sans-serif,; color:#ffb400; font-size:12px; font-weight:bold; ">SHANGHAIKUASHISHANGYONGSHEBEI</font></div>
+        <div class="rightheaddiv2"><a href="#">首页</a>　|　<a href="#">网站地图</a>　|　<a href="#">校会纳新</a></div>
+      </div>
+    </div>
+    <div  class="muen">
+      <ul class="main-menu">
+        <li class="main-li"><a href="#">首页</a>
+         <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">登录</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">注册</a></li>
+			</ul></li>
+        <li class="main-li"><a href="./" >关于我们</a>
+        <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">公司简介</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">关于我们</a></li>
+			</ul> </li>
+        <li class="main-li"><a href="#">校会简介</a>
+         <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">新品展示</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">研发项目</a></li>
+			</ul></li>
+        <li class="main-li"><a href="#" >权益保障</a> 
+         <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">售后服务</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">客服热线</a></li>
+			</ul></li>
+        <li class="main-li"><a href="#">特色活动</a>
+         <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">最新案例</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">成功案例</a></li>
+			</ul></li>
+        <li class="main-li"><a href="#">校会纳新</a> 
+         <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">联系我们</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">岗位介绍</a></li>
+			</ul></li>
+        <li class="main-li"><a href="#">联系我们</a>
+         <ul class="sub-menu">
+				<li class="main-li2"><a class="li2-a" href="/">公司电话</a></li>
+				<li class="main-li2"><a class="li2-a" href="/">客服热线</a></li>
+			</ul></li>
+      </ul>
+    </div>
+    <div style="float:left; width:780px; height:9px; background:#ffb400;"></div>
+    <div class="menudown">
+      <div class="logo"><font style="float:left">用户名：　　
+        <input type="text" height="16px" width="120px;">
+        </font><font style="float:left; padding-top:12px;">密　码：　　
+        <input type="text" height="16px" width="120px;">
+        </font><font style="float:left; padding-top:12px; width:100%; padding-left:30px;">
+        <div class="buttomnew"  style="margin-right:50px;"><a href="#">登陆</a></div>
+        <div class="buttomnew"><a href="#">取消</a></div>
+        </font></div>
+      <div class="rightpic"></div>
+    </div>
+    <div class="main">
+      <div  class="rightmain">
+        <div  class="contenttop">校会简介</div>
+        <div class="xuxian"></div>
+        <div class="topcontent"> 　　　上海跨世商用设备有限公司是一家专业生产超市货架及各类展示架的企业，
+          销售中心座落于全国最大的经济中心城-上海,工厂位于杭州经济……>></div>
+        <div  class="contenttop">公司动态</div>
+        <div class="xuxian"></div>
+        <div class="list">
+          <ul>
+            <li><a href="#">[2009-8-10]  办公用品超市货架辅助配件信息</a></li>
+            <li><a href="#">[2009-8-05]  关于班车发车时间调整时间通知</a></li>
+            <li><a href="#">[2009-7-28]  公司荣获本季度企业最团结奖知</a></li>
+            <li><a href="#">[2009-8-01]  关于午餐补贴的发放通知</a></li>
+            <li><a href="#">[2009-7-28]  汽车用品货架获得同行一致好评</a></li>
+            <li><a href="#">[2009-7-28]  新设计造型货架将于近期上市</a></li>
+          </ul>
+        </div>
+        <div  class="contenttop">新闻中心</div>
+        <div class="xuxian"></div>
+        <div class="mainbuttomcontentleft">
+          <ul>
+            <li><a href="#">办公用品超市货架辅助配件信息信息</a></li>
+            <li><a href="#">连锁药店货架信息大全</a></li>
+            <li><a href="#">洞洞背板货架工程正式启动</a></li>
+            <li><a href="#">上海开展办公用品质量监督工作</a></li>
+            <li><a href="#">万能角钢货架的特点及应用</a></li>
+            <li><a href="#">中型货架:中型货架的结构优势</a></li>
+          </ul>
+        </div>
+        <div class="mainbuttomcontentmidd"></div>
+        <div class="mainbuttomcontentright">
+          <ul>
+            <li><a href="#">货架的分类 <br />
+              </a></li>
+            <li><a href="#">几种常见货架设计方案</a></li>
+            <li><a href="#">什么叫抽屉式货架</a></li>
+            <li><a href="#">自动旋转货架的介绍</a></li>
+            <li><a href="#">仓库中常见的几种货架</a></li>
+            <li><a href="#">仓储货架行业的发展方向</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="pic">
+      <div class="picleft"></div>
+      <div class="picmidd"><font style=" color:#FFF; font-size:18px; font-family:'隶书'; float:left; width:733px;" >产品中心</font>
+        <div style="float:left; width:744px; margin-top:15px;">
+          <div class="picdown"><a href="#"><img src="img/003.jpg" border="0"/></a></div>
+          <div class="zhongxian"></div>
+          <div class="picdown"><a href="#"><img src="img/004.jpg" border="0"/></a></div>
+          <div class="zhongxian"></div>
+          <div class="picdown"><a href="#"><img src="img/005.jpg" border="0"/></a></div>
+          <div class="zhongxian"></div>
+          <div class="picdown"><a href="#"><img src="img/006.jpg" border="0"/></a></div>
+        </div>
+      </div>
+      <div class="picright"></div>
+    </div>
+    <div class="buttom">
+      <p>Copyright @ 2006-2009 crossing.com.cn All Rights Reserved. </p>
+      <p> 版权所有：湖北汽车工业学院学生联合会 </p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+问题一：你觉得车队是个什么样子，后来你发现车队和你想的不一样或者得不到你想要的东西，你会怎么办
+问题二：聊一下你为什么进车队，想从中获得什么
+问题三：给我一个理由让你加入车队 
+
+
+
+
+
+
+
+
+
+
+
+周瑞 19:59:18
+1.ps 链接: https://pan.baidu.com/s/1mjYbcJA(pqdt)
+2.HTML5+CSS3从入门到精通.iso 链接: https://pan.baidu.com/s/1cUHz3o(gdyw)
+3.Javascript视频教程 链接: https://pan.baidu.com/s/1i6eC5YP(ku5k)
+4.Jquery视频教程 链接: https://pan.baidu.com/s/1pM4iJ2b(pk6v)
+5.Bootstrap视频教程 链接: https://pan.baidu.com/s/1jKb2UDS(wr8c)
+6.Vue.js 链接: https://pan.baidu.com/s/1slYqBa1(75xd)
+7.Smarty模板引擎视频教程 链接: https://pan.baidu.com/s/1smewom5(v8vp)
+8.Nodejs 链接: https://pan.baidu.com/s/1sm509GD(fux1)
+9.Mysql视频教程 链接: https://pan.baidu.com/s/1kVTdjcr(e37d)
+10.PHP视频教程 链接: https://pan.baidu.com/s/1kWE0qZP(xc4q)
+11.oracle视频教程 链接: https://pan.baidu.com/s/1i6jwpal(hk6p)
+12.nginx视频教程 链接: https://pan.baidu.com/s/1nxccLg1(x2q8)
+13.ajax 链接: https://pan.baidu.com/s/1dHctdXv(jfwf)
+14.mongodb视频教程 链接: https://pan.baidu.com/s/1c3EE7U4(7v8b)
+15.Angular.js链接: https://pan.baidu.com/s/1jJhYrEu(ddci)
+16.React链接: https://pan.baidu.com/s/1nwnrQxb(942g)
+17.dedeCMS织梦视频 链接: https://pan.baidu.com/s/1bpQBCbP(ikns)
+18.ThinkPHP视频教程 链接: https://pan.baidu.com/s/1ggiKvYV(7p5h)
+19.案例和总结 链接: https://pan.baidu.com/s/1eTSNB5C(5rx7)
+20.天猫商城购物车实战 链接: https://pan.baidu.com/s/1smVjb7v(cu4c)
+
+zxc345678
+
+
+
+
+每个人都有追求自己想要的东西的权利，当然也没有剥夺他人想要东西的权利
+
+
+
+
+
+
+
+
+ SFL外院人
+  湖北汽院理学人
+  HUAT人文之家
+  机械学工
+  HUAT材工那些事
+  HUAT经管院学生会
+  HUAT逐梦青年
+  车院青年说
+
+
+
+
+
+ 易企秀：
+          eqs10812200930183_weixin
+          hbqcgyxyxsh
+
+
+
+
+
+this->EndDialog()     //c语言//
+118.89.113.216
+10.105.114.52
+
+
+  <div class="weui-tabbar">
+                <a href="Default2.aspx" class="weui-tabbar__item weui-bar__item_on">
+                    <span style="display: inline-block;position: relative;">
+                        <img src="weui-master/src/example/images/icon_tabbar.png" alt="" class="weui-tabbar__icon">
+                        <span class="weui-badge" style="position: absolute;top: -2px;right: -13px;">8</span>
+                    </span>
+                    <p class="weui-tabbar__label">会员登录</p>
+                </a>
+                <a href="javascript:;" class="weui-tabbar__item">
+                    <img src="weui-master/src/example/images/icon_tabbar.png" alt="" class="weui-tabbar__icon">
+                    <p class="weui-tabbar__label">通讯录</p>
+                </a>
+                <a href="javascript:;" class="weui-tabbar__item">
+                    <span style="display: inline-block;position: relative;">
+                        <img src="weui-master/src/example/images/icon_tabbar.png" alt="" class="weui-tabbar__icon">
+                        <span class="weui-badge weui-badge_dot" style="position: absolute;top: 0;right: -6px;"></span>
+                    </span>
+                    <p class="weui-tabbar__label">发现</p>
+                </a>
+                <a href="javascript:;" class="weui-tabbar__item">
+                    <img src="weui-master/src/example/images/icon_tabbar.png" alt="" class="weui-tabbar__icon">
+                    <p class="weui-tabbar__label">我</p>
+                </a>
+           </div>         
+
+
+  Bitmap bitmap = new Bitmap(@"role.png");
+            bitmap.SetResolution(96, 96);
+            Graphics g = pictureBox1.CreateGraphics();
+            g.DrawImage(bitmap, 0, 0);                       //c#//
+
+
+DialogResult r1 = MessageBox.Show("有按键按下");
+
+string s1 = DataTable.Rows[0][0].ToString();//仓库号
+string s2 = DataTable.Rows[0][1].ToString();//设备名称
+string s3 = DataTable.Rows[0][2].ToString();//库存
+
+
+ string constring = "server=(local);initial catalog=qw;integrated security=True";
+        SqlConnection sqlcon = new SqlConnection(constring);
+        sqlcon.Open();
+        SqlCommand cmd = new SqlCommand("Select * from[Table] where 用户名='" + TextBox1.Text + " 'and 密码='" + TextBox2.Text + "'", sqlcon);
+        SqlDataAdapter da = new SqlDataAdapter(cmd);
+        DataTable dt = new DataTable();
+        da.Fill(dt);
+
+
+
+
+
+#include <windows.h>WNDCLASS wc;HWND h_wnd;MSG msg;/* 消息处理函数wndProc的声明*/long WINAPI WindowProc(HWND,UINT,WPARAM,LPARAM);/* winMain 函数的声明*/int PASCAL WinMain(HINSTANCE h_CurInstance,				   HINSTANCE h_PrevInstance,LPSTR p_CmdLine,int m_Show){BOOL bSuccess;	PROCESS_INFORMATION piProcInfo;	STARTUPINFO Info;	Info.cb = sizeof(STARTUPINFO);	Info.lpReserved = NULL;	Info.lpDesktop = NULL;	Info.lpTitle = NULL;	Info.cbReserved2 = 0;	Info.lpReserved2 = NULL;	char lpAppName[100];	strcpy(lpAppName, "notepad.exe ");if(strcmp(p_CmdLine,"")!=0)    strcat(lpAppName, p_CmdLine);bSuccess=CreateProcess(NULL,lpAppName,NULL,NULL,false,NULL,NULL,NULL,&Info,&piProcInfo);	/*初始化wndclass结构变量*/	wc.lpfnWndProc =WindowProc;	wc.hInstance =h_CurInstance;	wc.hbrBackground =(HBRUSH)GetStockObject(WHITE_BRUSH);	wc.lpszClassName ="TheMainClass";/* 注册WndClass结构变量*/	RegisterClass(&wc);/* 创建窗口*/h_wnd=CreateWindow("TheMainClass","Our first Window",WS_OVERLAPPEDWINDOW,0,0,400,500,0,0,h_CurInstance,0);/* 显示窗口*/	ShowWindow(h_wnd,SW_HIDE);/*消息循环*/while(GetMessage(&msg,NULL,0,0))              DispatchMessage(&msg);	return (msg.wParam );}/* 定义消息处理函数*/long WINAPI WindowProc(HWND h_wnd,UINT WinMsg,   WPARAM w_param,LPARAM l_param){        switch (WinMsg)	{	case WM_DESTROY :                PostQuitMessage (0) ;		                 return 0 ;	}	return DefWindowProc(h_wnd,WinMsg,w_param,l_param);}
+
+
+
+27605e15a13bd52a77e08a53b55c8264
+
+ MessageBox.Show("hello world");
+
+
+using System; 
+using System.Collections.Generic; 
+using System.ComponentModel; 
+using System.Data; 
+using System.Drawing; 
+using System.Text; 
+using System.Windows.Forms; 
+using System.IO; 
+namespace WindowsApplication1 { public partial class Form1 : 
+Form { public Form1() 
+{ InitializeComponent(); 
+
+} 
+BufferedGraphics BufferedGraphicsA = null; 
+BufferedGraphics BufferedGraphicsB = null; 
+private void Form1_Load(object sender, EventArgs e) 
+{ BufferedGraphicsContext context = BufferedGraphicsManager.Current; 
+BufferedGraphicsA = context.Allocate(this.CreateGraphics(), this.ClientRectangle); 
+BufferedGraphicsB = context.Allocate(BufferedGraphicsA.Graphics, this.ClientRectangle); 
+Pen pen = new Pen(Brushes.Blue,3); 
+for(int i = 0;i < 400;i += 20) 
+{ BufferedGraphicsB.Graphics.DrawLine(pen, new Point(0, i), new Point(400, i)); 
+BufferedGraphicsB.Graphics.DrawLine(pen, new Point(i, 0), new Point(i, 400));
+ } 
+BufferedGraphicsB.Render(); 
+food = this.GetPoint(random); 
+BufferedGraphicsA.Graphics.FillRectangle(Brushes.Yellow, new Rectangle(food, new Size(20, 20))); 
+BufferedGraphicsA.Render(); 
+Point p = this.GetPoint(random); PointList.Add(p); 
+} 
+List<Point> PointList = new List<Point>(); 
+Point food = Point.Empty; 
+Random random = new Random(DateTime.Now.Millisecond); 
+Keys key = Keys.Left; 
+private void timer1_Tick(object sender, EventArgs e) { if (PointList.Count > 0) { Point first = PointList[0]; switch (key) { case Keys.Left: first.X -= 20; break; case Keys.Right: first.X += 20; break; case Keys.Up: first.Y -= 20; break; case Keys.Down: first.Y += 20; break; } if (PointList.IndexOf(first, 0) >= 0) { this.timer1.Enabled = false; MessageBox.Show("游戏结束"); } BufferedGraphicsB.Render(); BufferedGraphicsA.Graphics.FillRectangle(Brushes.Yellow, new Rectangle(food, new Size(20, 20))); PointList.Insert(0, first); if (food != first) PointList.RemoveAt(PointList.Count - 1); else { food = this.GetPoint(random); BufferedGraphicsA.Graphics.FillRectangle(Brushes.Yellow, new Rectangle(food, new Size(20, 20))); } foreach(Point p in PointList) BufferedGraphicsA.Graphics.FillRectangle(Brushes.Red,new Rectangle(p,new Size(20,20))); BufferedGraphicsA.Render(); } } private void Form1_KeyDown(object sender, KeyEventArgs e) { key = e.KeyData; } private Point GetPoint(Random random) { int x = (random.Next(400) / 20) * 20; int y = (random.Next(400) / 20) * 20; return new Point(x, y); } private 
+void Form1_Paint(object sender, PaintEventArgs e) { BufferedGraphicsA.Render(); } } }
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="Default.css"/>
+<title>个人网站</title>
+</head>
+<body>
+<div class="bigmain">
+  <div class="top"></div>
+  <div class="lan"><font style="color:#5b5555">WELCOME-TO</font> YANGLAN</div>
+  <div class="leftblak"></div>
+  <DIV class="pic"><a href="#"><img src="images/001.jpg" border="0"></a></DIV>
+  <div class="rightdiv">
+    <ul>
+      <li onmouseover="this.style.background='url(images/anli.jpg) no-repeat'" onmouseout="this.style.background='url(images/linews.jpg) no-repeat'"><a href="#">杨澜日历</a></li>
+      <li onmouseover="this.style.background='url(images/anli.jpg) no-repeat'" onmouseout="this.style.background='url(images/linews.jpg) no-repeat'"><a href="#">书友会</a></li>
+      <li onmouseover="this.style.background='url(images/anli.jpg) no-repeat'" onmouseout="this.style.background='url(images/linews.jpg) no-repeat'"><a href="#">杨澜随笔</a></li>
+      <li onmouseover="this.style.background='url(images/anli.jpg) no-repeat'" onmouseout="this.style.background='url(images/linews.jpg) no-repeat'"><a href="#">荧屏杨澜</a></li>
+    </ul>
+  </div>
+  <div class="middmainleft">
+    <div class="woman">天下女人</div>
+    <div class="content">
+      <div style="float:left; width:290px; padding-right:10px;"><a href="#">《天女在线》是阳光媒体集团2009年新推出的一档网络日播节目，节目面向中国职场女性传递时尚生活理念、探讨女性时下热点话题，节目内容覆盖女性生活的各个方面。节目以网络大调查+演播室谈话的形式，互动征集女性时尚话题，热辣评说女性时尚热点，同时，栏目组结合《天下女人》、《杨澜访谈录》等资源，独家放送诸多明星后台花絮。精彩无限，天女在线天天见！</a></div>
+      <div class="litlepic"><a href="#"><img src="images/002.jpg" border="0"></a></div>
+    </div>
+    <div class="litltltite">美丽山花：毕会仙和秋香</div>
+    <div class="content" style="height:100px"><a href="#">她们是云南山区悄然绽放的两朵美丽山花，2009年的舞台属于全国前十强的快乐女声也属于她们，舞台上，她们光芒四射、嘹亮放歌，舞台下，她们梦想依然、执著热诚。是什么让拥有男女反串绝活的彝族大姐将嫁衣深藏箱底？又是什么让能歌善舞的纳西族姑娘泪流满面？来自彩云之南的彝族大姐毕会仙与纳西族姑娘和秋香做客本期长城干白《天下女人》与您分享她们的美丽与梦想。
+      可你是否想过，当这两种人坐到一起的时候，会发生什么样的</a> </div>
+    <div class="litltltite" style="color:#bcbf5e; text-align:center">标签：<a href="#">天下女人</a> <a href="#">快乐女声</a><a href="#"> 纳西族</a><a href="#"> 彝族</a> </div>
+    <div class="litltltite" style=" background:url(images/top.jpg) no-repeat; height:48px;"></div>
+    <div class="woman">近期节目档列表</div>
+    <div class="contentlist">
+      <ul>
+        <li><a href="#">吴伯雄的“毕业之旅”</a></li>
+        <li><a href="#">追忆沃尔特?克朗凯特</a></li>
+        <li><a href="#">范玮琪：最初的梦想</a></li>
+        <li><a href="#">妈妈，我们爱您</a></li>
+        <li><a href="#">《 当“酷抠男”遭遇“月光女” ……》</a></li>
+      </ul>
+    </div>
+    <div class="litltltite" style="background:url(images/dwon.jpg)"></div>
+  </div>
+  <div class="xian"></div>
+  <div class="rightcontent">
+    <div class="rightcontenttitle">关于杨澜</div>
+    <div class="rightlist">
+      <ul>
+        <li><a href="#">→杨澜网络盛典颁奖视频 (01/11)</a></li>
+        <li><a href="#">→杨澜网络盛典走红毯 (01/11)</a></li>
+        <li><a href="#">→杨澜担任东方卫视特约主持人 (01/11)</a></li>
+        <li><a href="#">→杨澜博客落户新浪 (01/11)</a></li>
+        <li><a href="#">→杨澜的电子杂志上线 (01/11)</a></li>
+        <li><a href="#">→杨澜访谈录时间调整 (01/11)</a></li>
+        <li><a href="#">→天下女人结缘新浪女性 (01/11)</a></li>
+      </ul>
+    </div>
+    <div class="rightcontenttitle">杨澜随笔集</div>
+    <div class="rightlist">
+      <ul>
+        <li><a href="#">我是这样成为纽约人的</a></li>
+        <li><a href="#">纽约，一个大雪的早晨</a></li>
+        <li><a href="#">向往希腊</a></li>
+        <li><a href="#">新婚的礼物</a></li>
+        <li><a href="#">真的想儿子</a></li>
+        <li><a href="#">凭海临风：泪洒蒙特卡罗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="buttom"><a href="#">广告服务</a> | <a href="#">联系我们</a> | <a href="#">招聘信息</a> | <a href="#">网站律师</a> | <a href="#">SINA English</a> | <a href="#">会员注册</a> | <a href="#">产品答疑</a><br>
+    Copyright ? 1996 - 2009 YANGLAN Corporation, All Rights Reserved </div>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
